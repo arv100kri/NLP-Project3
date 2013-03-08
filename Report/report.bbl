@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{klein2003accurate}
+Dan Klein and Christopher~D Manning.
+\newblock Accurate unlexicalized parsing.
+\newblock In {\em Proceedings of the 41st Annual Meeting on Association for
+  Computational Linguistics-Volume 1}, pages 423--430. Association for
+  Computational Linguistics, 2003.
+
+\bibitem{gimpel2010part}
+K.~Gimpel, N.~Schneider, B.~O'Connor, D.~Das, D.~Mills, J.~Eisenstein,
+  M.~Heilman, D.~Yogatama, J.~Flanigan, and N.A. Smith.
+\newblock Part-of-speech tagging for twitter: Annotation, features, and
+  experiments.
+\newblock Technical report, DTIC Document, 2010.
+
+\bibitem{galley2009quadratic}
+Michel Galley and Christopher~D Manning.
+\newblock Quadratic-time dependency parsing for machine translation.
+\newblock In {\em Proceedings of the Joint Conference of the 47th Annual
+  Meeting of the ACL and the 4th International Joint Conference on Natural
+  Language Processing of the AFNLP: Volume 2-Volume 2}, pages 773--781.
+  Association for Computational Linguistics, 2009.
+
+\bibitem{chiang2005hierarchical}
+David Chiang.
+\newblock A hierarchical phrase-based model for statistical machine
+  translation.
+\newblock In {\em Proceedings of the 43rd Annual Meeting on Association for
+  Computational Linguistics}, pages 263--270. Association for Computational
+  Linguistics, 2005.
+
+\bibitem{mcdonald2005non}
+Ryan McDonald, Fernando Pereira, Kiril Ribarov, and Jan Haji{\v{c}}.
+\newblock Non-projective dependency parsing using spanning tree algorithms.
+\newblock In {\em Proceedings of the conference on Human Language Technology
+  and Empirical Methods in Natural Language Processing}, pages 523--530.
+  Association for Computational Linguistics, 2005.
+
+\bibitem{chang2008optimizing}
+Pi-Chuan Chang, Michel Galley, and Christopher~D Manning.
+\newblock Optimizing chinese word segmentation for machine translation
+  performance.
+\newblock In {\em Proceedings of the Third Workshop on Statistical Machine
+  Translation}, pages 224--232, 2008.
+
+\end{thebibliography}
